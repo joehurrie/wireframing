@@ -40,3 +40,20 @@ Highlights interactive elements like buttons, forms, and sliders.
 ### [An example of a high fidelity prototype] (https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f)
 
 ---
+
+Wireframing Tools
+
+Several tools support wireframing, but **Figma** stands out for its collaborative and design-friendly features:
+
+### Why Figma?
+- Cloud-based with real-time collaboration.
+- Supports reusable components and design systems.
+- Enables seamless transition from wireframes to interactive prototypes.
+- Ideal for team-based workflows and feedback loops.
+
+Other tools include:
+- **Balsamiq** – Great for quick, low-fidelity sketches.
+- **Adobe XD** – Offers prototyping and design features.
+- **Sketch** – Popular among macOS users for UI design.
+
+---
