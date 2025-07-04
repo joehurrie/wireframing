@@ -67,6 +67,6 @@ Wireframing offers several advantages in the development lifecycle:
 - **Clarifies Requirements**: Acts as a visual specification for developers.
 - **Speeds Up Iteration**: Enables quick feedback and revisions before coding begins.
 
->  *Example*: A wireframe for a checkout process revealed that users had to go through five screens to complete a purchase. This insight led to a redesign that reduced the process to three steps, improving user satisfaction and conversion rates.
+>  **Example In Real World Scenario**: A wireframe for a checkout process revealed that users had to go through five screens to complete a purchase. This insight led to a redesign that reduced the process to three steps, improving user satisfaction and conversion rates.
 
 ---
