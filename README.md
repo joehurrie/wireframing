@@ -27,16 +27,16 @@ Highlights interactive elements like buttons, forms, and sliders.
 
 ##  Types of Wireframes
 
-### 🔹 Low-Fidelity Wireframes
+### Low-Fidelity Wireframes
 - Basic sketches, drawings or grayscale mockups.
 - Focus on layout and structure without visual detail.
 - Ideal for early-stage brainstorming and stakeholder feedback.
 
-### 🔸 High-Fidelity Wireframes
+### High-Fidelity Wireframes
 - Detailed and polished representations.
 - Include accurate spacing, typography, and UI components.
 - Often interactive and used for usability testing or developer handoff.
 
-### An example of a high fidelity prototype https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f
+### [An example of a high fidelity prototype] (https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f)
 
 ---
